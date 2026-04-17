@@ -43,6 +43,7 @@ The dataset includes:
     📦 Over 90% of orders were successfully delivered
     📊 Identified highest-selling categories and peak sales months
     📊 Dashboard
+    <img width="922" height="374" alt="image" src="https://github.com/user-attachments/assets/941544a5-392a-4914-b42e-e93d0a07ddb9" />
 
 The dashboard provides:
     Sales vs Orders trend visualization
